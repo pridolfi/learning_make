@@ -1,0 +1,1 @@
+int resta(int, int);
